@@ -5,6 +5,7 @@ import TodoList from './Todolist';
 import MapTest from './MapTest';
 import Timer from './Timer';
 import Clock from './Timer';
+import MyWeather from './MyWeather';
 
 function App() {
   let name = 'react';
